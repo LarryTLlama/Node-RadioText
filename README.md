@@ -10,3 +10,14 @@ A windows RadioPlayer coded in NodeJS, and built through the terminal!
 ## Installation:
 Head to the Releases Page (https://github.com/LarryTLlama/Node-RadioText/releases). 
 Download the latest .zip file in the assets section. Then extract and run!
+
+## Using the program
+- On start, press enter to go to the Station Select Menu
+- Use the arrow keys to navigate up and down the menus
+- Press enter
+- To add in a new station and save it, go to the assets/data.json folder, and add a streaming link under the customstations section in any slot (you can remove some presets if you wish). Restart Node RadioText and choose the Custom Stations option.
+- To not save it, choose the Other option in the Station Select menu, and type in the link. Hit enter once you're done.
+
+## Getting streaming links
+You can find a list of streaming links at https://www.radio-browser.info/. (Node Radiotext isn't affliated in any way btw).
+Search for your favourite radio station and copy the URL bit.
