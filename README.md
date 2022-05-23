@@ -1,6 +1,8 @@
 # Node-RadioText
 A windows RadioPlayer coded in NodeJS, and built through the terminal!
 
+![image](https://user-images.githubusercontent.com/79579625/169851361-afff1ce4-b1f4-47bf-907b-80ea8f55f630.png)
+
 ## Features
 - Plays RadioStations (Thanks to MPlayer)
 - Displays Now-Playing information powered by the MetaData most stations send out
@@ -21,3 +23,13 @@ Download the latest .zip file in the assets section. Then extract and run!
 ## Getting streaming links
 You can find a list of streaming links at https://www.radio-browser.info/. (Node Radiotext isn't affliated in any way btw).
 Search for your favourite radio station and copy the URL bit.
+
+### Known Bugs:
+- High CPU Issues after leaving on for a while
+- Issues navigating the Main Menu after exiting to it (from main interface)
+- Pause button not working
+
+### Upcoming Features:
+- Debug setting
+- A radio database (or perhaps getting one from an API)
+- Working audio graph
