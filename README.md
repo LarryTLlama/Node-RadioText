@@ -1,7 +1,8 @@
 # Node-RadioText
 A windows RadioPlayer coded in NodeJS, and built through the terminal!
 
-![image](https://user-images.githubusercontent.com/79579625/169851361-afff1ce4-b1f4-47bf-907b-80ea8f55f630.png)
+![image](https://user-images.githubusercontent.com/79579625/170117700-ea07bf1b-77eb-40dc-8e00-08c6fa117a66.png)
+
 
 ## Features
 - Plays RadioStations (Thanks to MPlayer - http://www.mplayerhq.hu/)
@@ -31,5 +32,4 @@ Search for your favourite radio station and copy the URL bit.
 
 ### Upcoming Features:
 - Debug setting
-- A radio database (or perhaps getting one from an API)
 - Working audio graph
