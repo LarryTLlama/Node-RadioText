@@ -7,12 +7,13 @@ A windows RadioPlayer coded in NodeJS, and built through the terminal!
 ## Features
 - Plays RadioStations (Thanks to MPlayer - http://www.mplayerhq.hu/)
 - Displays Now-Playing information powered by the MetaData most stations send out
-- Comes Pre-installed with a few links so you can try it out
-- WIP Notification system (Thanks to the Node-Notifier module)
+- Fetches station data from https://radio-browser.info so you can play all your favourite stations through our player!
+- Notification system (Thanks to the Node-Notifier module)
 
 ## Installation:
 Head to the Releases Page (https://github.com/LarryTLlama/Node-RadioText/releases). 
-Download the installer. Then run it!
+Download the installer, and run it OR Download the ZIP Package and install it!
+
 
 ## Using the program
 - On start, press enter to go to the Station Select Menu
