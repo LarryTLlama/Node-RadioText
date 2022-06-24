@@ -1,3 +1,5 @@
+This repo is no longer being updated, but the app should still work. See the Installation notes below
+
 # Node-RadioText
 A windows RadioPlayer coded in NodeJS, and built through the terminal!
 
